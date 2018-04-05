@@ -1,0 +1,18 @@
+* {    
+    margin: 0px;
+    padding: 0px;
+    background: black;
+}
+
+h1 {
+  color: white;
+  font-size: 45px;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: tomato;
+  font-size: 18px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
